@@ -4,4 +4,4 @@
 
 Please feel free to suggest changes and report bugs. 
 
-Join the community Slack channel [here](http://stemai.herokuapp.com).
+Join the community Slack channel [here](https://stemai.herokuapp.com).
